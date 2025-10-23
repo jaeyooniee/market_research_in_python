@@ -22,4 +22,3 @@ This calculates how often the S&P 100 outperformed the S&P 500 within a defined 
 3. Aggregates results into a `pandas.DataFrame`
 4. Plots the rolling win rate trend with yearly x-axis ticks
 
----
