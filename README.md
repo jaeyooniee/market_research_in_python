@@ -2,7 +2,7 @@
 
 This project analyses and visualises the relative performance of the **S&P 100** and **S&P 500** indices across custom time windows using Python.  
 This calculates how often the S&P 100 outperformed the S&P 500 within a defined rolling period and visualises the win rate over time.
-The interpretation of the results is inside the file named "Result Explanation"
+The interpretation of the results is inside the file named "Results Explanation"
 
 ---
 
